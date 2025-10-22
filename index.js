@@ -8,7 +8,7 @@ require('dotenv').config();
 const { processarTodosOsRelatorios } = require('./esteira-json.js');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // Endpoint para INICIAR o processo de geração dos rankings (seu código original, adaptado)
 app.post('/iniciar-processo-completo', (req, res) => {
@@ -67,7 +67,6 @@ app.get('/ranking/hoje', (req, res) => {
 
 
 app.listen(PORT, () => {
-    console.log(`Servidor API rodando na porta http://localhost:${PORT}`);
     console.log('------------------------------------------------------------------');
     console.log('Para GERAR os arquivos de ranking, envie um POST para:');
     console.log(`http://localhost:${PORT}/iniciar-processo-completo`);
