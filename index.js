@@ -1,33 +1,43 @@
-// server.js
 const express = require('express');
 const fs = require('fs'); // Módulo para ler arquivos
 const path = require('path'); // Módulo para lidar com caminhos de arquivos
 require('dotenv').config();
 
-// Corrigido para importar a função do arquivo que trabalhamos
-const { processarTodosOsRelatorios } = require('./esteira-json.js');
+const { executarTodosOsRankings } = require('./scraper.js'); // Importa a nova função
+
+
+
 
 const app = express();
+
 const PORT = process.env.PORT || 3000;
 
-// Endpoint para INICIAR o processo de geração dos rankings (seu código original, adaptado)
-app.post('/iniciar-processo-completo', (req, res) => {
-    console.log('Requisição recebida para iniciar o processo de geração de rankings...');
+app.post('/iniciar-processo-completo', async (req, res) => {
+
+    console.log('Requisição recebida para iniciar o processo completo de rankings...');
+
     try {
-        // A função processarTodosOsRelatorios é síncrona (escreve os arquivos e termina)
-        processarTodosOsRelatorios(); 
-        
-        // Retorna sucesso imediatamente, indicando que o processo foi disparado.
-        res.status(200).json({ success: true, message: 'Processo de geração de rankings concluído com sucesso.' });
+
+        const result = await executarTodosOsRankings();
+
+        if (result.success) {
+
+            res.status(200).json(result);
+
+        } else {
+
+            res.status(500).json(result);
+
+        }
+
     } catch (error) {
-        console.error('Erro ao executar o processo de relatórios:', error);
-        res.status(500).json({ success: false, message: 'Erro no servidor ao gerar os rankings.', error: error.message });
+
+        res.status(500).json({ success: false, message: 'Erro catastrófico no servidor.', error: error.message });
+
     }
+
 });
 
-// ==========================================================
-//      NOVOS ENDPOINTS PARA RETORNAR OS DADOS DOS RANKINGS
-// ==========================================================
 
 /**
  * Função genérica para ler e retornar um arquivo JSON de ranking.

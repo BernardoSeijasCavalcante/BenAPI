@@ -3,180 +3,204 @@
     {
       "ranking": "1º",
       "nome": "DIEGO JIMINEZ RIBEIRO",
-      "vendasConcluidas": "R$ 1.129.229,45"
+      "vendasConcluidas": "R$ 1.428.455,41"
     },
     {
       "ranking": "2º",
       "nome": "GUILHERME NEVES DE ALMEIDA",
-      "vendasConcluidas": "R$ 1.111.322,57"
+      "vendasConcluidas": "R$ 1.307.730,18"
     },
     {
       "ranking": "3º",
       "nome": "NAUALLY CHRYSTHINNA SANTOS FABRI",
-      "vendasConcluidas": "R$ 874.286,63"
+      "vendasConcluidas": "R$ 1.185.567,67"
     },
     {
       "ranking": "4º",
       "nome": "KAROL FERNANDA FORTES",
-      "vendasConcluidas": "R$ 773.145,55"
+      "vendasConcluidas": "R$ 1.004.003,63"
     }
   ],
   "vendedores": [
     {
       "ranking": "1º",
       "nome": "KAWANY DAYSA SILVA SANTOS",
-      "vendasConcluidas": "R$ 425.012,51",
-      "porcentagem": "144,82%"
+      "vendasConcluidas": "R$ 543.460,21",
+      "porcentagem": "163,39%"
     },
     {
       "ranking": "2º",
       "nome": "STEPHANNY MARLENE FIRMO DOS SANTOS",
-      "vendasConcluidas": "R$ 282.950,53",
-      "porcentagem": "96,41%"
+      "vendasConcluidas": "R$ 364.143,84",
+      "porcentagem": "109,48%"
     },
     {
       "ranking": "3º",
       "nome": "GABRIEL NASCIMENTO DA SILVA",
-      "vendasConcluidas": "R$ 251.235,49",
-      "porcentagem": "85,61%"
+      "vendasConcluidas": "R$ 360.637,47",
+      "porcentagem": "108,43%"
     },
     {
       "ranking": "4º",
-      "nome": "FABIO RIAN SILVA SOUZA",
-      "vendasConcluidas": "R$ 240.447,52",
-      "porcentagem": "81,93%"
+      "nome": "KAILAYNE DA SILVA BARROS",
+      "vendasConcluidas": "R$ 294.031,19",
+      "porcentagem": "88,40%"
     },
     {
       "ranking": "5º",
-      "nome": "LOHANY MARIANO DOS SANTOS",
-      "vendasConcluidas": "R$ 194.902,30",
-      "porcentagem": "66,41%"
+      "nome": "FABIO RIAN SILVA SOUZA",
+      "vendasConcluidas": "R$ 256.419,40",
+      "porcentagem": "77,09%"
     },
     {
       "ranking": "6º",
-      "nome": "KAILAYNE DA SILVA BARROS",
-      "vendasConcluidas": "R$ 193.800,00",
-      "porcentagem": "66,04%"
+      "nome": "SABRINA RODRIGUES DE JESUS",
+      "vendasConcluidas": "R$ 247.393,58",
+      "porcentagem": "74,38%"
     },
     {
       "ranking": "7º",
-      "nome": "SABRINA RODRIGUES DE JESUS",
-      "vendasConcluidas": "R$ 186.810,96",
-      "porcentagem": "63,65%"
+      "nome": "JOAO HENRIQUE BRAZ DE OLIVEIRA",
+      "vendasConcluidas": "R$ 211.764,98",
+      "porcentagem": "63,67%"
     },
     {
       "ranking": "8º",
-      "nome": "EMILLY DA SILVA CASIMIRO",
-      "vendasConcluidas": "R$ 162.623,01",
-      "porcentagem": "55,41%"
+      "nome": "LOHANY MARIANO DOS SANTOS",
+      "vendasConcluidas": "R$ 209.781,83",
+      "porcentagem": "63,07%"
     },
     {
       "ranking": "9º",
-      "nome": "CAMILA GONCALVES RODRIGUES",
-      "vendasConcluidas": "R$ 160.673,31",
-      "porcentagem": "54,75%"
+      "nome": "GUILHERME NEVES ALMEIDA",
+      "vendasConcluidas": "R$ 185.983,07",
+      "porcentagem": "55,92%"
     },
     {
       "ranking": "10º",
-      "nome": "CRISTIANE PEREIRA DA SILVA",
-      "vendasConcluidas": "R$ 159.565,19",
-      "porcentagem": "54,37%"
+      "nome": "EMILLY DA SILVA CASIMIRO",
+      "vendasConcluidas": "R$ 183.177,37",
+      "porcentagem": "55,07%"
     },
     {
       "ranking": "11º",
-      "nome": "JOAO HENRIQUE BRAZ DE OLIVEIRA",
-      "vendasConcluidas": "R$ 154.803,43",
-      "porcentagem": "52,75%"
+      "nome": "CRISTIANE PEREIRA DA SILVA",
+      "vendasConcluidas": "R$ 168.687,39",
+      "porcentagem": "50,72%"
     },
     {
       "ranking": "12º",
-      "nome": "NICOLY DE AQUINO ALVES",
-      "vendasConcluidas": "R$ 150.347,92",
-      "porcentagem": "51,23%"
+      "nome": "RONI WILLIAN PIRES",
+      "vendasConcluidas": "R$ 164.022,65",
+      "porcentagem": "49,31%"
     },
     {
       "ranking": "13º",
-      "nome": "LARISSA GABRIELA GONCALVES",
-      "vendasConcluidas": "R$ 142.846,39",
-      "porcentagem": "48,67%"
+      "nome": "CAMILA GONCALVES RODRIGUES",
+      "vendasConcluidas": "R$ 160.673,31",
+      "porcentagem": "48,31%"
     },
     {
       "ranking": "14º",
       "nome": "HUGO OLIVA TEIXEIRA",
-      "vendasConcluidas": "R$ 138.796,74",
-      "porcentagem": "47,29%"
+      "vendasConcluidas": "R$ 153.340,14",
+      "porcentagem": "46,10%"
     },
     {
       "ranking": "15º",
-      "nome": "RONI WILLIAN PIRES",
-      "vendasConcluidas": "R$ 127.901,95",
-      "porcentagem": "43,58%"
+      "nome": "NICOLY DE AQUINO ALVES",
+      "vendasConcluidas": "R$ 150.347,92",
+      "porcentagem": "45,20%"
     },
     {
       "ranking": "16º",
-      "nome": "GUILHERME NEVES ALMEIDA",
-      "vendasConcluidas": "R$ 125.647,45",
-      "porcentagem": "42,81%"
+      "nome": "LARISSA GABRIELA GONCALVES",
+      "vendasConcluidas": "R$ 149.087,14",
+      "porcentagem": "44,82%"
     },
     {
       "ranking": "17º",
-      "nome": "LUCAS VINICIUS SANTOS DOS ANJOS",
-      "vendasConcluidas": "R$ 108.794,45",
-      "porcentagem": "37,07%"
+      "nome": "JESSICA BARBOSA DA SILVA",
+      "vendasConcluidas": "R$ 148.441,33",
+      "porcentagem": "44,63%"
     },
     {
       "ranking": "18º",
-      "nome": "JESSICA BARBOSA DA SILVA",
-      "vendasConcluidas": "R$ 107.069,78",
-      "porcentagem": "36,48%"
+      "nome": "ANA BEATRIZ MELERO FURLAN",
+      "vendasConcluidas": "R$ 147.295,65",
+      "porcentagem": "44,28%"
     },
     {
       "ranking": "19º",
-      "nome": "ANA BEATRIZ MELERO FURLAN",
-      "vendasConcluidas": "R$ 79.385,18",
-      "porcentagem": "27,05%"
+      "nome": "LUCAS VINICIUS SANTOS DOS ANJOS",
+      "vendasConcluidas": "R$ 147.120,63",
+      "porcentagem": "44,23%"
     },
     {
       "ranking": "20º",
       "nome": "RENATO MARIANO DE JESUS",
-      "vendasConcluidas": "R$ 60.667,88",
-      "porcentagem": "20,67%"
+      "vendasConcluidas": "R$ 127.050,06",
+      "porcentagem": "38,20%"
     },
     {
       "ranking": "21º",
       "nome": "GUILHERME SOARES DINIZ",
       "vendasConcluidas": "R$ 55.725,86",
-      "porcentagem": "18,99%"
+      "porcentagem": "16,75%"
     },
     {
       "ranking": "22º",
-      "nome": "Sabrina Boreli Speglic Mendes",
-      "vendasConcluidas": "R$ 32.439,42",
-      "porcentagem": "11,05%"
+      "nome": "LARA MARIA ZABALA VIEIRA",
+      "vendasConcluidas": "R$ 33.991,42",
+      "porcentagem": "10,22%"
     },
     {
       "ranking": "23º",
-      "nome": "Victoria de Menezes Argolo da Silva",
-      "vendasConcluidas": "R$ 15.596,67",
-      "porcentagem": "5,31%"
+      "nome": "Sabrina Boreli Speglic Mendes",
+      "vendasConcluidas": "R$ 32.439,42",
+      "porcentagem": "9,75%"
     },
     {
       "ranking": "24º",
-      "nome": "Yasmin Leonardo Eugenio dos Santos",
-      "vendasConcluidas": "R$ 11.795,18",
-      "porcentagem": "4,02%"
+      "nome": "MELISSA ISABELLA DE LIMA SIMAO",
+      "vendasConcluidas": "R$ 23.659,84",
+      "porcentagem": "7,11%"
     },
     {
       "ranking": "25º",
-      "nome": "DIEGO JIMENEZ RIBEIRO",
-      "vendasConcluidas": "R$ 2.297,59",
-      "porcentagem": "0,78%"
+      "nome": "Victoria de Menezes Argolo da Silva",
+      "vendasConcluidas": "R$ 15.596,67",
+      "porcentagem": "4,69%"
     },
     {
       "ranking": "26º",
+      "nome": "Yasmin Leonardo Eugenio dos Santos",
+      "vendasConcluidas": "R$ 11.795,18",
+      "porcentagem": "3,55%"
+    },
+    {
+      "ranking": "27º",
       "nome": "PEDRO HENRIQUE DE ASSIS GUIMARAES",
-      "vendasConcluidas": "R$ 1.318,32",
-      "porcentagem": "0,45%"
+      "vendasConcluidas": "R$ 4.032,73",
+      "porcentagem": "1,21%"
+    },
+    {
+      "ranking": "28º",
+      "nome": "DIEGO JIMENEZ RIBEIRO",
+      "vendasConcluidas": "R$ 2.297,59",
+      "porcentagem": "0,69%"
+    },
+    {
+      "ranking": "29º",
+      "nome": "ANA CAROLINA FERREIRA CORREIA",
+      "vendasConcluidas": "R$ 1.658,69",
+      "porcentagem": "0,50%"
+    },
+    {
+      "ranking": "30º",
+      "nome": "KESSIA MARIA DE ANDRADE",
+      "vendasConcluidas": "R$ 1.349,71",
+      "porcentagem": "0,41%"
     }
   ]
 }

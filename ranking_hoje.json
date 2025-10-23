@@ -2,191 +2,177 @@
   "supervisores": [
     {
       "ranking": "1º",
-      "nome": "DIEGO JIMINEZ RIBEIRO",
-      "totalDeVendas": "R$ 331.374,59",
-      "vendasConcluidas": "R$ 292.279,92",
-      "vendasPendentes": "R$ 39.094,67",
-      "ticketMedio": "R$ 41.421,82"
+      "nome": "NAUALLY CHRYSTHINNA SANTOS FABRI",
+      "totalDeVendas": "R$ 337.223,13",
+      "vendasConcluidas": "R$ 247.015,46",
+      "vendasPendentes": "R$ 90.207,67",
+      "ticketMedio": "R$ 42.152,89"
     },
     {
       "ranking": "2º",
-      "nome": "NAUALLY CHRYSTHINNA SANTOS FABRI",
-      "totalDeVendas": "R$ 326.779,83",
-      "vendasConcluidas": "R$ 225.551,94",
-      "vendasPendentes": "R$ 101.227,89",
-      "ticketMedio": "R$ 40.847,48"
+      "nome": "KAROL FERNANDA FORTES",
+      "totalDeVendas": "R$ 264.560,14",
+      "vendasConcluidas": "R$ 136.687,59",
+      "vendasPendentes": "R$ 127.872,55",
+      "ticketMedio": "R$ 33.070,02"
     },
     {
       "ranking": "3º",
-      "nome": "GUILHERME NEVES DE ALMEIDA",
-      "totalDeVendas": "R$ 409.958,65",
-      "vendasConcluidas": "R$ 171.825,74",
-      "vendasPendentes": "R$ 238.132,91",
-      "ticketMedio": "R$ 51.244,83"
+      "nome": "DIEGO JIMINEZ RIBEIRO",
+      "totalDeVendas": "R$ 221.496,41",
+      "vendasConcluidas": "R$ 135.776,98",
+      "vendasPendentes": "R$ 85.719,43",
+      "ticketMedio": "R$ 27.687,05"
     },
     {
       "ranking": "4º",
-      "nome": "KAROL FERNANDA FORTES",
-      "totalDeVendas": "R$ 304.833,86",
-      "vendasConcluidas": "R$ 89.438,21",
-      "vendasPendentes": "R$ 215.395,65",
-      "ticketMedio": "R$ 38.104,23"
+      "nome": "GUILHERME NEVES DE ALMEIDA",
+      "totalDeVendas": "R$ 203.680,53",
+      "vendasConcluidas": "R$ 63.293,56",
+      "vendasPendentes": "R$ 140.386,97",
+      "ticketMedio": "R$ 25.460,07"
     }
   ],
   "vendedores": [
     {
       "ranking": "1º",
-      "nome": "CRISTIANE PEREIRA DA SILVA",
-      "totalDeVendas": "R$ 96.721,90",
-      "vendasConcluidas": "R$ 96.721,90",
-      "vendasPendentes": "R$ 0,00"
+      "nome": "JOSEFA ELIZABETH FERREIRA FREITAS",
+      "totalDeVendas": "R$ 122.224,89",
+      "vendasConcluidas": "R$ 82.145,92",
+      "vendasPendentes": "R$ 40.078,97"
     },
     {
       "ranking": "2º",
-      "nome": "KAWANY DAYSA SILVA SANTOS",
-      "totalDeVendas": "R$ 116.904,80",
-      "vendasConcluidas": "R$ 69.305,37",
-      "vendasPendentes": "R$ 47.599,43"
+      "nome": "SABRINA RODRIGUES DE JESUS",
+      "totalDeVendas": "R$ 91.873,39",
+      "vendasConcluidas": "R$ 66.601,29",
+      "vendasPendentes": "R$ 25.272,10"
     },
     {
       "ranking": "3º",
-      "nome": "STEPHANNY MARLENE FIRMO DOS SANTOS",
-      "totalDeVendas": "R$ 63.581,98",
-      "vendasConcluidas": "R$ 63.581,98",
-      "vendasPendentes": "R$ 0,00"
+      "nome": "KESSIA MARIA DE ANDRADE",
+      "totalDeVendas": "R$ 86.267,06",
+      "vendasConcluidas": "R$ 65.103,52",
+      "vendasPendentes": "R$ 21.163,54"
     },
     {
       "ranking": "4º",
-      "nome": "HELEM SOUZA DOS SANTOS",
-      "totalDeVendas": "R$ 62.696,14",
-      "vendasConcluidas": "R$ 62.696,14",
-      "vendasPendentes": "R$ 0,00"
+      "nome": "LOHANY MARIANO DOS SANTOS",
+      "totalDeVendas": "R$ 97.290,40",
+      "vendasConcluidas": "R$ 58.340,77",
+      "vendasPendentes": "R$ 38.949,63"
     },
     {
       "ranking": "5º",
-      "nome": "RENATO MARIANO DE JESUS",
-      "totalDeVendas": "R$ 55.569,53",
-      "vendasConcluidas": "R$ 55.569,53",
-      "vendasPendentes": "R$ 0,00"
+      "nome": "ANA CAROLINA CORDEIRO FERREIRA",
+      "totalDeVendas": "R$ 80.289,22",
+      "vendasConcluidas": "R$ 55.432,62",
+      "vendasPendentes": "R$ 24.856,60"
     },
     {
       "ranking": "6º",
-      "nome": "RONI WILLIAN PIRES",
-      "totalDeVendas": "R$ 54.958,36",
-      "vendasConcluidas": "R$ 54.958,36",
+      "nome": "JESSICA BARBOSA DA SILVA",
+      "totalDeVendas": "R$ 52.872,19",
+      "vendasConcluidas": "R$ 52.872,19",
       "vendasPendentes": "R$ 0,00"
     },
     {
       "ranking": "7º",
-      "nome": "SABRINA RODRIGUES DE JESUS",
-      "totalDeVendas": "R$ 114.509,01",
-      "vendasConcluidas": "R$ 50.152,79",
-      "vendasPendentes": "R$ 64.356,22"
+      "nome": "STEPHANNY MARLENE FIRMO DOS SANTOS",
+      "totalDeVendas": "R$ 42.835,63",
+      "vendasConcluidas": "R$ 42.835,63",
+      "vendasPendentes": "R$ 0,00"
     },
     {
       "ranking": "8º",
-      "nome": "ANA CAROLINA CORDEIRO FERREIRA",
-      "totalDeVendas": "R$ 49.121,03",
-      "vendasConcluidas": "R$ 49.121,03",
+      "nome": "KAWANY DAYSA SILVA SANTOS",
+      "totalDeVendas": "R$ 39.325,71",
+      "vendasConcluidas": "R$ 39.325,71",
       "vendasPendentes": "R$ 0,00"
     },
     {
       "ranking": "9º",
-      "nome": "KAILAYNE DA SILVA BARROS",
-      "totalDeVendas": "R$ 46.080,26",
-      "vendasConcluidas": "R$ 46.080,26",
-      "vendasPendentes": "R$ 0,00"
+      "nome": "GABRIEL NASCIMENTO DA SILVA",
+      "totalDeVendas": "R$ 47.645,44",
+      "vendasConcluidas": "R$ 32.258,36",
+      "vendasPendentes": "R$ 15.387,08"
     },
     {
       "ranking": "10º",
-      "nome": "EDUARDO LIMA RIBEIRO",
-      "totalDeVendas": "R$ 41.950,21",
-      "vendasConcluidas": "R$ 41.950,21",
+      "nome": "KAILAYNE DA SILVA BARROS",
+      "totalDeVendas": "R$ 27.393,95",
+      "vendasConcluidas": "R$ 27.393,95",
       "vendasPendentes": "R$ 0,00"
     },
     {
       "ranking": "11º",
-      "nome": "MELISSA ISABELLA DE LIMA SIMAO",
-      "totalDeVendas": "R$ 40.846,47",
-      "vendasConcluidas": "R$ 40.846,47",
+      "nome": "CRISTIANE PEREIRA DA SILVA",
+      "totalDeVendas": "R$ 21.780,09",
+      "vendasConcluidas": "R$ 21.780,09",
       "vendasPendentes": "R$ 0,00"
     },
     {
       "ranking": "12º",
-      "nome": "PEDRO HENRIQUE DE ASSIS GUIMARAES",
-      "totalDeVendas": "R$ 92.914,71",
-      "vendasConcluidas": "R$ 38.918,88",
-      "vendasPendentes": "R$ 53.995,83"
+      "nome": "RONI WILLIAN PIRES",
+      "totalDeVendas": "R$ 79.603,43",
+      "vendasConcluidas": "R$ 21.210,30",
+      "vendasPendentes": "R$ 58.393,13"
     },
     {
       "ranking": "13º",
-      "nome": "HUGO OLIVA TEIXEIRA",
-      "totalDeVendas": "R$ 35.387,12",
-      "vendasConcluidas": "R$ 35.387,12",
+      "nome": "FABIO RIAN SILVA SOUZA",
+      "totalDeVendas": "R$ 12.520,45",
+      "vendasConcluidas": "R$ 12.520,45",
       "vendasPendentes": "R$ 0,00"
     },
     {
       "ranking": "14º",
-      "nome": "ANA BEATRIZ MELERO FURLAN",
-      "totalDeVendas": "R$ 32.020,16",
-      "vendasConcluidas": "R$ 32.020,16",
-      "vendasPendentes": "R$ 0,00"
+      "nome": "LAIS MICHELE DOS SANTOS",
+      "totalDeVendas": "R$ 22.877,68",
+      "vendasConcluidas": "R$ 4.952,79",
+      "vendasPendentes": "R$ 17.924,89"
     },
     {
       "ranking": "15º",
-      "nome": "JESSICA BARBOSA DA SILVA",
-      "totalDeVendas": "R$ 39.675,52",
-      "vendasConcluidas": "R$ 21.652,77",
-      "vendasPendentes": "R$ 18.022,75"
+      "nome": "ANA CAROLINA FERREIRA CORREIA",
+      "totalDeVendas": "R$ 57.267,85",
+      "vendasConcluidas": "R$ 0,00",
+      "vendasPendentes": "R$ 57.267,85"
     },
     {
       "ranking": "16º",
-      "nome": "KESSIA MARIA DE ANDRADE",
-      "totalDeVendas": "R$ 120.468,62",
-      "vendasConcluidas": "R$ 20.132,84",
-      "vendasPendentes": "R$ 100.335,78"
+      "nome": "GUILHERME NEVES ALMEIDA",
+      "totalDeVendas": "R$ 27.615,02",
+      "vendasConcluidas": "R$ 0,00",
+      "vendasPendentes": "R$ 27.615,02"
     },
     {
       "ranking": "17º",
-      "nome": "LOHANY MARIANO DOS SANTOS",
-      "totalDeVendas": "R$ 137.803,14",
+      "nome": "HUGO OLIVA TEIXEIRA",
+      "totalDeVendas": "R$ 6.437,77",
       "vendasConcluidas": "R$ 0,00",
-      "vendasPendentes": "R$ 137.803,14"
+      "vendasPendentes": "R$ 6.437,77"
     },
     {
       "ranking": "18º",
-      "nome": "GABRIEL NASCIMENTO DA SILVA",
-      "totalDeVendas": "R$ 67.460,44",
+      "nome": "MELISSA ISABELLA DE LIMA SIMAO",
+      "totalDeVendas": "R$ 27.326,30",
       "vendasConcluidas": "R$ 0,00",
-      "vendasPendentes": "R$ 67.460,44"
+      "vendasPendentes": "R$ 27.326,30"
     },
     {
       "ranking": "19º",
-      "nome": "CAIQUE SILVA DE CARVALHO DANTAS",
-      "totalDeVendas": "R$ 19.557,94",
+      "nome": "EDUARDO LIMA RIBEIRO",
+      "totalDeVendas": "R$ 49.459,66",
       "vendasConcluidas": "R$ 0,00",
-      "vendasPendentes": "R$ 19.557,94"
+      "vendasPendentes": "R$ 49.459,66"
     },
     {
       "ranking": "20º",
-      "nome": "FABIO RIAN SILVA SOUZA",
-      "totalDeVendas": "R$ 21.071,92",
+      "nome": "RENATO MARIANO DE JESUS",
+      "totalDeVendas": "R$ 34.054,08",
       "vendasConcluidas": "R$ 0,00",
-      "vendasPendentes": "R$ 21.071,92"
-    },
-    {
-      "ranking": "21º",
-      "nome": "JOSEFA ELIZABETH FERREIRA FREITAS",
-      "totalDeVendas": "R$ 17.313,73",
-      "vendasConcluidas": "R$ 0,00",
-      "vendasPendentes": "R$ 17.313,73"
-    },
-    {
-      "ranking": "22º",
-      "nome": "GUILHERME NEVES ALMEIDA",
-      "totalDeVendas": "R$ 46.333,94",
-      "vendasConcluidas": "R$ 0,00",
-      "vendasPendentes": "R$ 46.333,94"
+      "vendasPendentes": "R$ 34.054,08"
     }
   ]
 }
