@@ -10,9 +10,7 @@ const { executarTodosOsRankings } = require('./scraper.js'); // Importa a nova f
 
 const app = express();
 
-const PORT = 3000;
-
-
+const PORT = process.env.PORT || 3000;
 
 app.post('/iniciar-processo-completo', async (req, res) => {
 
@@ -79,7 +77,6 @@ app.get('/ranking/hoje', (req, res) => {
 
 
 app.listen(PORT, () => {
-    console.log(`Servidor API rodando na porta http://localhost:${PORT}`);
     console.log('------------------------------------------------------------------');
     console.log('Para GERAR os arquivos de ranking, envie um POST para:');
     console.log(`http://localhost:${PORT}/iniciar-processo-completo`);
