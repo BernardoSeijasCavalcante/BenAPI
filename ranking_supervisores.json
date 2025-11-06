@@ -1,0 +1,58 @@
+{
+  "hoje": [
+    {
+      "ranking": "1º",
+      "nome": "DIEGO JIMENEZ RIBEIRO",
+      "vendasGeral": "R$ 199.497,32",
+      "vendaConcluida": "R$ 61.754,03",
+      "vendaPendente": "R$ 137.743,29",
+      "ticketMedio": "R$ 18.136,12"
+    },
+    {
+      "ranking": "2º",
+      "nome": "GUILHERME NEVES DE ALMEIDA",
+      "vendasGeral": "R$ 55.410,64",
+      "vendaConcluida": "R$ 55.410,64",
+      "vendaPendente": "R$ 0,00",
+      "ticketMedio": "R$ 55.410,64"
+    },
+    {
+      "ranking": "3º",
+      "nome": "NAUALLY CHRYSTHINNA SANTOS FABRI",
+      "vendasGeral": "R$ 27.076,39",
+      "vendaConcluida": "R$ 0,00",
+      "vendaPendente": "R$ 27.076,39",
+      "ticketMedio": "R$ 13.538,20"
+    },
+    {
+      "ranking": "4º",
+      "nome": "KAWANY DAYSA SILVA SANTOS",
+      "vendasGeral": "R$ 21.210,30",
+      "vendaConcluida": "R$ 0,00",
+      "vendaPendente": "R$ 21.210,30",
+      "ticketMedio": "R$ 21.210,30"
+    }
+  ],
+  "mensal": [
+    {
+      "ranking": "1º",
+      "nome": "NAUALLY CHRYSTHINNA SANTOS FABRI",
+      "vendaConcluida": "R$ 328.720,24"
+    },
+    {
+      "ranking": "2º",
+      "nome": "DIEGO JIMENEZ RIBEIRO",
+      "vendaConcluida": "R$ 240.178,94"
+    },
+    {
+      "ranking": "3º",
+      "nome": "KAWANY DAYSA SILVA SANTOS",
+      "vendaConcluida": "R$ 219.384,82"
+    },
+    {
+      "ranking": "4º",
+      "nome": "GUILHERME NEVES DE ALMEIDA",
+      "vendaConcluida": "R$ 90.338,97"
+    }
+  ]
+}

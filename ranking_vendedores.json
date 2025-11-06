@@ -1,0 +1,206 @@
+{
+  "hoje": [
+    {
+      "ranking": "1º",
+      "nome": "KAILAYNE DA SILVA BARROS",
+      "vendasGeral": "R$ 76.061,41",
+      "vendaConcluida": "R$ 61.754,03",
+      "vendaPendente": "R$ 14.307,38",
+      "portabilidade": "R$ 0,00",
+      "projetando": "274,46%",
+      "Atingimento": "152,12%"
+    },
+    {
+      "ranking": "2º",
+      "nome": "EDUARDO LIMA RIBEIRO",
+      "vendasGeral": "R$ 55.410,64",
+      "vendaConcluida": "R$ 55.410,64",
+      "vendaPendente": "R$ 0,00",
+      "portabilidade": "R$ 0,00",
+      "projetando": "246,27%",
+      "Atingimento": "110,82%"
+    },
+    {
+      "ranking": "3º",
+      "nome": "EMILLY DA SILVA CASIMIRO",
+      "vendasGeral": "R$ 54.689,68",
+      "vendaConcluida": "R$ 0,00",
+      "vendaPendente": "R$ 54.689,68",
+      "portabilidade": "R$ 0,00",
+      "projetando": "0,00%",
+      "Atingimento": "109,38%"
+    },
+    {
+      "ranking": "4º",
+      "nome": "MELISSA ISABELLA DE LIMA SIMAO",
+      "vendasGeral": "R$ 45.869,91",
+      "vendaConcluida": "R$ 0,00",
+      "vendaPendente": "R$ 45.869,91",
+      "portabilidade": "R$ 0,00",
+      "projetando": "0,00%",
+      "Atingimento": "91,74%"
+    },
+    {
+      "ranking": "5º",
+      "nome": "SABRINA RODRIGUES DE JESUS",
+      "vendasGeral": "R$ 27.076,39",
+      "vendaConcluida": "R$ 0,00",
+      "vendaPendente": "R$ 27.076,39",
+      "portabilidade": "R$ 0,00",
+      "projetando": "0,00%",
+      "Atingimento": "54,15%"
+    },
+    {
+      "ranking": "6º",
+      "nome": "SARA GABRIELLA ALVES DA SILVA",
+      "vendasGeral": "R$ 24.063,77",
+      "vendaConcluida": "R$ 0,00",
+      "vendaPendente": "R$ 24.063,77",
+      "portabilidade": "R$ 0,00",
+      "projetando": "0,00%",
+      "Atingimento": "48,13%"
+    },
+    {
+      "ranking": "7º",
+      "nome": "JAMES IURY SOARES",
+      "vendasGeral": "R$ 22.876,32",
+      "vendaConcluida": "R$ 0,00",
+      "vendaPendente": "R$ 22.876,32",
+      "portabilidade": "R$ 0,00",
+      "projetando": "0,00%",
+      "Atingimento": "45,75%"
+    },
+    {
+      "ranking": "8º",
+      "nome": "RENATO MARIANO DE JESUS",
+      "vendasGeral": "R$ 21.210,30",
+      "vendaConcluida": "R$ 0,00",
+      "vendaPendente": "R$ 21.210,30",
+      "portabilidade": "R$ 0,00",
+      "projetando": "0,00%",
+      "Atingimento": "42,42%"
+    }
+  ],
+  "mensal": [
+    {
+      "ranking": "1º",
+      "nome": "KESSIA MARIA DE ANDRADE",
+      "vendaConcluida": "R$ 79.840,88",
+      "projetando": "88,71%"
+    },
+    {
+      "ranking": "2º",
+      "nome": "ANA CAROLINA CORDEIRO FERREIRA",
+      "vendaConcluida": "R$ 69.501,70",
+      "projetando": "77,22%"
+    },
+    {
+      "ranking": "3º",
+      "nome": "EDUARDO LIMA RIBEIRO",
+      "vendaConcluida": "R$ 68.500,05",
+      "projetando": "76,11%"
+    },
+    {
+      "ranking": "4º",
+      "nome": "SABRINA RODRIGUES DE JESUS",
+      "vendaConcluida": "R$ 52.649,35",
+      "projetando": "58,50%"
+    },
+    {
+      "ranking": "5º",
+      "nome": "KAILAYNE DA SILVA BARROS",
+      "vendaConcluida": "R$ 51.056,17",
+      "projetando": "56,73%"
+    },
+    {
+      "ranking": "6º",
+      "nome": "EMILLY DA SILVA CASIMIRO",
+      "vendaConcluida": "R$ 49.061,73",
+      "projetando": "54,51%"
+    },
+    {
+      "ranking": "7º",
+      "nome": "FABIO RIAN SILVA SOUZA",
+      "vendaConcluida": "R$ 45.857,75",
+      "projetando": "50,95%"
+    },
+    {
+      "ranking": "8º",
+      "nome": "STEPHANNY MARLENE FIRMO DOS SANTOS",
+      "vendaConcluida": "R$ 40.393,58",
+      "projetando": "44,88%"
+    },
+    {
+      "ranking": "9º",
+      "nome": "CRISTIANE PEREIRA DA SILVA",
+      "vendaConcluida": "R$ 39.828,21",
+      "projetando": "44,25%"
+    },
+    {
+      "ranking": "10º",
+      "nome": "JOSEFA ELIZABETH FERREIRA FREITAS",
+      "vendaConcluida": "R$ 39.448,89",
+      "projetando": "43,83%"
+    },
+    {
+      "ranking": "11º",
+      "nome": "CAIQUE SILVA DE CARVALHO DANTAS",
+      "vendaConcluida": "R$ 39.193,56",
+      "projetando": "43,55%"
+    },
+    {
+      "ranking": "12º",
+      "nome": "MELISSA ISABELLA DE LIMA SIMAO",
+      "vendaConcluida": "R$ 34.819,25",
+      "projetando": "38,69%"
+    },
+    {
+      "ranking": "13º",
+      "nome": "JOAO HENRIQUE BRAZ DE OLIVEIRA",
+      "vendaConcluida": "R$ 25.001,13",
+      "projetando": "27,78%"
+    },
+    {
+      "ranking": "14º",
+      "nome": "RENATO MARIANO DE JESUS",
+      "vendaConcluida": "R$ 20.985,33",
+      "projetando": "23,32%"
+    },
+    {
+      "ranking": "15º",
+      "nome": "DANIESLEY NASCIMENTO SENA",
+      "vendaConcluida": "R$ 20.455,04",
+      "projetando": "22,73%"
+    },
+    {
+      "ranking": "16º",
+      "nome": "LOHANY MARIANO DOS SANTOS",
+      "vendaConcluida": "R$ 20.171,53",
+      "projetando": "22,41%"
+    },
+    {
+      "ranking": "17º",
+      "nome": "RONI WILLIAN PIRES",
+      "vendaConcluida": "R$ 19.555,83",
+      "projetando": "21,73%"
+    },
+    {
+      "ranking": "18º",
+      "nome": "HELEM SOUZA DOS SANTOS",
+      "vendaConcluida": "R$ 17.111,43",
+      "projetando": "19,01%"
+    },
+    {
+      "ranking": "19º",
+      "nome": "GABRIEL NASCIMENTO DA SILVA",
+      "vendaConcluida": "R$ 9.827,76",
+      "projetando": "10,92%"
+    },
+    {
+      "ranking": "20º",
+      "nome": "HUGO OLIVA TEIXEIRA",
+      "vendaConcluida": "R$ 1.667,39",
+      "projetando": "1,85%"
+    }
+  ]
+}
